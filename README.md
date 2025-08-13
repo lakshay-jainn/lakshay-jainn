@@ -19,6 +19,7 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 - Data preprocessing, visualization, and model evaluation  
 - Libraries: **NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow**  
 - Foundations in NLP and LLMs  
+- Strong understanding of **statistics and probability**, including key terms and their practical applications  
 
 **Tools & Platforms:**  
 - VSCode, Git & GitHub  
@@ -32,6 +33,7 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 - Using **Hugging Face models** to implement advanced NLP and AI tasks  
 - Building **projects from scratch** to strengthen ML & AI foundations  
 - Developing **interactive web apps** showcasing both theoretical knowledge and practical implementation  
+- Always **learning the math behind AI** and ensuring nothing remains a black box  
 
 ---
 
@@ -54,4 +56,4 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 
 ## ⚡ Fun Fact
 
-I love **merging theory with hands-on projects**, whether it’s ML algorithms from scratch, deep learning experiments, or tweaking web apps to perfection. Always experimenting, always learning.  
+I love **merging theory with hands-on projects**, whether it’s ML algorithms from scratch, deep learning experiments, or tweaking web apps to perfection. I am **always curious about the math behind AI**, have a strong foundation in **statistics and probability**, and never leave anything as a black box. Always experimenting, always learning.  
