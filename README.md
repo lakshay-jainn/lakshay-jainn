@@ -10,24 +10,26 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 - Python, C++, JavaScript, TypeScript  
 - React, Next.js, Flask, Express.js, Prisma ORM  
 - HTML, CSS, Tailwind, ShadCN UI  
+- SQL (PostgreSQL, MySQL)  
 
 **Data Science & AI:**  
 - Machine Learning algorithms (Linear Regression, Gradient Descent, etc.)  
+- Deep Learning, Image Generation, and Generative AI  
 - Data preprocessing, visualization, and model evaluation  
-- Foundations in Deep Learning, NLP, and LLMs  
+- Libraries: **NumPy, Pandas, Matplotlib**  
+- Foundations in NLP and LLMs  
 
 **Tools & Platforms:**  
-- PostgreSQL, VSCode, Git & GitHub  
-- Render, Shopify, Meta Ads management  
+- VSCode, Git & GitHub  
+- Render  
 
 ---
 
 ## 🌱 Current Focus
 
+- Exploring **Deep Learning**, **Generative AI**, and **image generation models**  
 - Building **projects from scratch** to strengthen ML & AI foundations  
-- Exploring **agentic AI** and practical applications  
-- Developing **interactive web apps** with React/Next.js and Flask backend  
-- Optimizing **shopify stores** and running online product campaigns  
+- Developing **interactive web apps** showcasing both theoretical knowledge and practical implementation  
 
 ---
 
@@ -43,11 +45,11 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 
 ## 📫 Contact Me
 
-- LinkedIn: [https://linkedin.com/in/lakshayjain](https://www.linkedin.com/in/lakshay-jain-39896631b/)
+- LinkedIn: [linkedin.com/in/lakshayjain](https://www.linkedin.com/in/lakshay-jain-39896631b/)  
 - Email: lakshay6690@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
 
-I love **merging theory with hands-on projects**, whether it’s ML algorithms from scratch or tweaking web apps to perfection. Always experimenting, always learning.  
+I love **merging theory with hands-on projects**, whether it’s ML algorithms from scratch, deep learning experiments, or tweaking web apps to perfection. Always experimenting, always learning.  
