@@ -15,8 +15,9 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 **Data Science & AI:**  
 - Machine Learning algorithms (Linear Regression, Gradient Descent, etc.)  
 - Deep Learning, Image Generation, and Generative AI  
+- Working with **Hugging Face models** for NLP and AI tasks  
 - Data preprocessing, visualization, and model evaluation  
-- Libraries: **NumPy, Pandas, Matplotlib**  
+- Libraries: **NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow**  
 - Foundations in NLP and LLMs  
 
 **Tools & Platforms:**  
@@ -28,6 +29,7 @@ I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a
 ## 🌱 Current Focus
 
 - Exploring **Deep Learning**, **Generative AI**, and **image generation models**  
+- Using **Hugging Face models** to implement advanced NLP and AI tasks  
 - Building **projects from scratch** to strengthen ML & AI foundations  
 - Developing **interactive web apps** showcasing both theoretical knowledge and practical implementation  
 
