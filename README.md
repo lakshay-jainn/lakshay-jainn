@@ -57,11 +57,10 @@ Here are some technologies I work with:
 ---
 
 ### Project Highlights
-
+- **Neural Network from Scratch (MNIST Classifier):**  90.6% accuracy, derived every derevative, activation function etc from scratch & implimented it
 - **SafeSpace:** Anonymous posting platform with AI-filtered comments.  
-- **Alumni Connect:** React + ShadCN-based table filter for alumni data.  
 - **Real-Time ML Implementations:** Linear regression and other models from scratch.  
-
+- **Alumni Connect:** React + ShadCN-based table filter for alumni data.  
 Check out all my projects on [GitHub](https://github.com/lakshay-jainn)  
 
 ---
