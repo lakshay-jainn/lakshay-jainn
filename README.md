@@ -23,7 +23,7 @@ Here are some technologies I work with:
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C?logo=pytorch&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
   ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge)
