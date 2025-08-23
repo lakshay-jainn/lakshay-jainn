@@ -1,6 +1,6 @@
 # Hi, I'm Lakshay Jain 👋
 
-I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a love for **AI, Data Science, and Web Development**. I enjoy turning ideas into real projects, exploring machine learning from scratch, and building clean, functional web apps.  
+I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a love for **AI, Data Analysis & Science, and Web Development**. I enjoy turning ideas into real projects, exploring machine learning from scratch, and building clean, functional web apps.  
 
 ---
 
@@ -47,7 +47,7 @@ Here are some technologies I work with:
 ---
 
 ### Current Focus
-
+- Enhancing my existing **Data Analysis** skills
 - Exploring **Deep Learning**, **Generative AI**, and **image generation models**.  
 - Building **projects from scratch** to strengthen ML & AI foundations.  
 - Developing **interactive web apps** showcasing both theory and practical implementation.  
