@@ -58,6 +58,7 @@ Here are some technologies I work with:
 
 ### Project Highlights
 - **Neural Network from Scratch (MNIST Classifier):**  90.6% accuracy, derived every derevative, activation function etc from scratch & implimented it
+- **End to End EDA & Prediction Projects**: Applied data preprocessing, exploratory data analysis to find patterns, feature engineering, feature selection, model training, and model evaluation.  
 - **SafeSpace:** Anonymous posting platform with AI-filtered comments.  
 - **Real-Time ML Implementations:** Linear regression and other models from scratch.  
 - **Alumni Connect:** React + ShadCN-based table filter for alumni data.  
