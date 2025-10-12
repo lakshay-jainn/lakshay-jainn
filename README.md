@@ -41,7 +41,7 @@ Here are some technologies I work with:
 
 - **Data Science & AI:** Machine Learning algorithms, Working with Hugging Face models, Data preprocessing, visualization, and model evaluation.  
 - **Foundations:** Strong grasp of **statistics and probability** and their practical applications in AI & ML.
--  **Programming & Web Development:** React, Next.js, Flask, Express.js, Prisma ORM, SQL (PostgreSQL/MySQL), Tailwind, ShadCN UI.  
+-  **Programming & Web Development:** React.js, Flask, Alchemy ORM, Express.js, Prisma ORM, SQL (PostgreSQL/MySQL), Tailwind, ShadCN UI.  
 
 
 ---
