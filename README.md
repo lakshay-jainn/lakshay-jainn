@@ -61,7 +61,7 @@ Here are some technologies I work with:
 - **End to End EDA & Prediction Projects**: Applied data preprocessing, exploratory data analysis to find patterns, feature engineering, feature selection, model training, and model evaluation.  
 - **SafeSpace:** Anonymous posting platform with AI-filtered comments.  
 - **Real-Time ML Implementations:** Linear regression and other models from scratch.  
-- **Alumni Connect:** React + ShadCN-based table filter for alumni data.  
+- **Alumni Connect:** React + Express.js based fully functional alumni connect platform 
 Check out all my projects on [GitHub](https://github.com/lakshay-jainn)  
 
 ---
