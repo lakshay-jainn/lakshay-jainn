@@ -65,12 +65,11 @@ Here are some technologies I work with:
   - Backend: https://github.com/lakshay-jainn/cell-annotation-backend
   
 - **Open Source Model Deployments:**
-
-  Deployed an open source fine-tuned Yolo Model, which detects the cell nuclei from a medical cell slide.  
+<br>Deployed an open source fine-tuned Yolo Model, which detects the cell nuclei from a medical cell slide. Converting a command line inference model, to product Deployed API using Flask. 
   - Code: https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
+  - Model: https://github.com/impromptuRong/hd_ws
 - **SafeSpace:**
-
-  Anonymous posting platform with **AI-powered comment moderation**. A real-time pipeline scores toxicity, hate/harassment, and self-harm signals using open-source models, then auto-hides or flags comments while allowing moderator review and user appeals.
+<br>Anonymous posting platform with **AI-powered comment moderation**. A real-time pipeline scores toxicity, hate/harassment, and self-harm signals using open-source models, then auto-hides or flags comments while allowing moderator review and user appeals.
   - Code: https://github.com/lakshay-jainn/Safe-Space-full-stack
   
 - **Neural Network from Scratch (MNIST Classifier):**  
