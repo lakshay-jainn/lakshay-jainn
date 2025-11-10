@@ -1,6 +1,6 @@
 # Hi, I'm Lakshay Jain 👋
 
-I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a love for **AI, Data Analysis & Science, and Web Development**. I enjoy turning ideas into real projects, exploring machine learning from scratch, and building clean, functional web apps.  
+I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a focus on **AI Engineering, Backend Development, and building production-ready systems**. I enjoy turning complex ideas into real deployable applications, especially where AI meets practical workflows.
 
 ---
 
@@ -19,60 +19,70 @@ Here are some technologies I work with:
 - **Frameworks & Libraries:**
   
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/-LangChain-0FA958?style=for-the-badge)
   ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-2.2.0-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
   ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge)
 
 - **Tools & Platforms:**
   
-  ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Render](https://img.shields.io/badge/-Render-1E1E1E?style=for-the-badge)
 
 ---
 
 ### Skills & Expertise
 
-- **Data Science & AI:** Machine Learning algorithms, Working with Hugging Face models, Data preprocessing, visualization, and model evaluation.  
-- **Foundations:** Strong grasp of **statistics and probability** and their practical applications in AI & ML.
--  **Programming & Web Development:** React.js, Flask, Alchemy ORM, Express.js, Prisma ORM, SQL (PostgreSQL/MySQL), Tailwind, ShadCN UI.  
-
+- **AI Engineering:** Working with open-source LLMs, LangChain pipelines, vector embeddings, and retrieval-augmented systems. Experience in **deploying and optimizing LLMs for real use**, not just research notebooks.
+- **Backend & Systems:** FastAPI / Flask API development, Postgres/Prisma workflows, Dockerized deployments, async processing, API integrations.
+- **Data Science:** Data preprocessing, exploratory analysis, visualization, feature engineering, model training & evaluation.
+- **Foundations:** Strong understanding of **probability, statistics**, and the math behind ML models.
 
 ---
 
 ### Current Focus
-- Enhancing my existing **Data Analysis** skills
-- Exploring **Deep Learning**, **Generative AI**, and **image generation models**.  
-- Building **projects from scratch** to strengthen ML & AI foundations.  
-- Developing **interactive web apps** showcasing both theory and practical implementation.  
-- Always **learning the math behind AI** to avoid black-box solutions.
-- Using **Hugging Face models** for advanced NLP and AI tasks.  
+- Building **real-world AI systems**, especially involving LLM agents and data workflows.
+- Backend architecture for **scalable, reliable AI deployment**.
+- Deepening understanding of **model internals** (not treating models as black boxes).
+- Improving the **Cell Slide Medical Annotation System** with doctor feedback.
 
 ---
 
 ### Project Highlights
-- **Neural Network from Scratch (MNIST Classifier):**  90.6% accuracy, derived every derevative, activation function etc from scratch & implimented it
-- **End to End EDA & Prediction Projects**: Applied data preprocessing, exploratory data analysis to find patterns, feature engineering, feature selection, model training, and model evaluation.  
-- **SafeSpace:** Anonymous posting platform with AI-filtered comments.  
-- **Real-Time ML Implementations:** Linear regression and other models from scratch.  
-- **Alumni Connect:** React + Express.js based fully functional alumni connect platform 
-Check out all my projects on [GitHub](https://github.com/lakshay-jainn)  
+- **Medical Reimbursement Claim System (In Development):**  
+  A platform for college staff to raise medical reimbursement claims with minimal manual data entry. Users upload doctor prescriptions, and an open-source vision-language model performs OCR to auto-extract key details, which are then used to pre-fill the reimbursement form. This reduces errors, speeds up claim submission, and simplifies the entire process. *(Frontend currently live in my repo)*
+  - Frontend: https://github.com/lakshay-jainn/medreim-frontend
+- **Medical Cell-Slide Annotation Platform (In Use by Doctors):**  
+  Built to assist pneumonologists and pathologists during procedures. The goal is to reduce the need for mid-surgery pathology consultations by enabling quicker cell identification on the spot, ultimately reducing surgery time and improving decision-making.
+  - Frontend: https://github.com/lakshay-jainn/cell-annotation-frontend
+  - Backend: https://github.com/lakshay-jainn/cell-annotation-backend
+  
+- **Open Source Model Deployments:**
+
+  Deployed an open source fine-tuned Yolo Model, which detects the cell nuclei from a medical cell slide.  
+  - Code: https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
+- **SafeSpace:**
+
+  Anonymous posting platform with **AI-powered comment moderation**. A real-time pipeline scores toxicity, hate/harassment, and self-harm signals using open-source models, then auto-hides or flags comments while allowing moderator review and user appeals.
+  - Code: https://github.com/lakshay-jainn/Safe-Space-full-stack
+  
+- **Neural Network from Scratch (MNIST Classifier):**  
+  Achieved **90.6% accuracy**, deriving gradients and implementing training loops entirely from scratch.
+
+- **Alumni Connect:** React + Express.js full-stack collaboration platform.
 
 ---
 
 ### 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/lakshayjain](https://www.linkedin.com/in/lakshay-jain-39896631b/)  
-- Email: lakshay6690@gmail.com  
+- LinkedIn: [linkedin.com/in/lakshayjain](https://www.linkedin.com/in/lakshay-jain-39896631b/)
+- GitHub: https://github.com/lakshay-jainn
+- Email: **lakshay6690@gmail.com**
 
----
-
-### ⚡ Fun Fact
-
-I love **merging theory with hands-on projects**, whether it’s ML algorithms from scratch, deep learning experiments, or tweaking web apps to perfection. I am **always curious about the math behind AI**, have a strong foundation in **statistics and probability**, and never leave anything as a black box. Always experimenting, always learning.  
