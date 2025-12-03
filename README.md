@@ -56,8 +56,6 @@ Here are some technologies I work with:
 ---
 
 ### Project Highlights
-- **Medical Reimbursement Claim System (In Development):**  
-  A platform for college staff to raise medical reimbursement claims with minimal manual data entry. Users upload doctor prescriptions, and an open-source vision-language model performs OCR to auto-extract key details, which are then used to pre-fill the reimbursement form. This reduces errors, speeds up claim submission, and simplifies the entire process.
 
 - **Medical Cell-Slide Annotation Platform (In Use by Doctors):**  
   Built to assist pneumonologists and pathologists during procedures. The goal is to reduce the need for mid-surgery pathology consultations by enabling quicker cell identification on the spot, ultimately reducing surgery time and improving decision-making.
