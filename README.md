@@ -65,7 +65,7 @@ Here are some technologies I work with:
 - **Open Source Model Deployments:**
 <br>Deployed an open source fine-tuned Yolo Model, which detects the cell nuclei from a medical cell slide. Converting a command line inference model, to product Deployed API using Flask. 
   - Code: https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
-  - Model: https://github.com/impromptuRong/hd_ws
+  - Model: https://github.com/impromptuRong/hd_wsi
 - **SafeSpace:**
 <br>Anonymous posting platform with **AI-powered comment moderation**. A real-time pipeline scores toxicity, hate/harassment, and self-harm signals using open-source models, then auto-hides or flags comments while allowing moderator review and user appeals.
   - Code: https://github.com/lakshay-jainn/Safe-Space-full-stack
