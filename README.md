@@ -1,28 +1,28 @@
 # Hi, I'm Lakshay Jain
 
-I'm a **Software Engineer** focused on **AI engineering, backend systems, and production-ready applications**. I build systems that integrate machine learning into real workflows — designing scalable APIs, deploying AI models, and turning complex technical ideas into usable products.
+I'm a **Software Engineer** focused on **AI engineering, backend systems, and production-ready applications**. I build systems that integrate machine learning into real workflows by designing scalable APIs, deploying AI models, and turning complex technical ideas into usable products.
 
-Currently, I work with a **fintech startup**, contributing to backend and AI-driven systems while independently building and deploying applied AI platforms. My primary interest lies in practical AI — systems that operate reliably in production environments rather than experimental prototypes.
+Currently, I work with a **fintech startup**, contributing to backend and AI-driven systems while independently building applied AI platforms. My primary interest is practical AI. Systems should run reliably in production, not remain experimental prototypes.
 
-My background in Computer Science provides strong foundations in algorithms, probability, and statistics, which I apply directly when designing intelligent systems.
+My background in Computer Science gives me strong foundations in algorithms, probability, and statistics, which I apply directly when designing intelligent systems.
 
 ---
 
-## Core Expertise
+## 🧩 Core Expertise
 
-**AI Engineering**
+### AI Engineering
 - LLM pipelines, retrieval-augmented generation (RAG), and agent workflows
 - Open-source model deployment and optimization
 - Vector embeddings and semantic search systems
 - Applied ML systems built for real-world usage
 
-**Backend & Systems Engineering**
-- FastAPI / Flask API development
+### Backend & Systems Engineering
+- FastAPI and Flask API development
 - Scalable backend architecture and async processing
 - Database design and API integrations
 - Dockerized services and API lifecycle management
 
-**Cloud & Deployment**
+### Cloud & Deployment
 - Deploying applications on AWS, Vercel, and cloud platforms
 - Containerized deployments using Docker
 - API hosting, environment configuration, and production monitoring
@@ -30,7 +30,7 @@ My background in Computer Science provides strong foundations in algorithms, pro
 
 ---
 
-## Technology Stack
+## 🛠 Technology Stack
 
 **Languages**  
 Python • SQL • JavaScript
@@ -46,19 +46,19 @@ Git • GitHub • Linux
 
 ---
 
-## Selected Projects
+## 🚧 Selected Projects
 
 ### Medical Cell-Slide Annotation Platform (Used by Doctors)
-A clinical assistance platform designed to help pneumonologists and pathologists annotate and analyze medical cell slides during procedures, reducing dependency on mid-surgery pathology consultations and improving decision speed.
+A clinical assistance platform that helps pneumonologists and pathologists annotate and analyze medical cell slides during procedures, reducing dependency on mid-surgery pathology consultations and improving decision speed.
 
 - Built complete backend architecture and deployment pipeline
-- Fully hosted on **AWS** with a **serverless database architecture**
+- Fully hosted on **AWS** using a **serverless database architecture**
 - Designed for real clinical usage with continuous doctor feedback
 
-Frontend:  
+Frontend  
 https://github.com/lakshay-jainn/cell-annotation-frontend
 
-Backend:  
+Backend  
 https://github.com/lakshay-jainn/cell-annotation-backend
 
 ---
@@ -68,24 +68,24 @@ Converted a research inference model into a production-accessible API.
 
 - Deployed fine-tuned YOLO model for cell nuclei detection
 - Transformed CLI-based inference into a scalable Flask API
-- Enabled real-time model access via hosted endpoints
+- Enabled real-time model access through hosted endpoints
 
-Code:  
+Code  
 https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
 
-Base Model:  
+Base Model  
 https://github.com/impromptuRong/hd_wsi
 
 ---
 
-### SafeSpace — AI Moderation Platform
+### SafeSpace | AI Moderation Platform
 Anonymous posting platform with automated AI moderation.
 
 - Real-time toxicity and safety classification pipeline
 - Detection of harassment, hate speech, and self-harm signals
 - Auto-flagging with moderator review and appeals workflow
 
-Code:  
+Code  
 https://github.com/lakshay-jainn/Safe-Space-full-stack
 
 ---
@@ -103,7 +103,7 @@ Full-stack collaboration platform built using React and Express.js.
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 - Building reliable AI systems for production environments
 - Backend architecture for scalable AI deployment
@@ -112,13 +112,13 @@ Full-stack collaboration platform built using React and Express.js.
 
 ---
 
-## Contact
+## 📬 Contact
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/lakshay-jain-39896631b/
 
-GitHub:  
+GitHub  
 https://github.com/lakshay-jainn
 
-Email:  
+Email  
 lakshay6690@gmail.com
