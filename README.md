@@ -1,85 +1,124 @@
-# Hi, I'm Lakshay Jain 👋
+# Hi, I'm Lakshay Jain
 
-I'm a passionate **BSc. (H) Computer Science** student at Hansraj College with a focus on **AI Engineering, Backend Development, and building production-ready systems**. I enjoy turning complex ideas into real deployable applications, especially where AI meets practical workflows.
+I'm a **Software Engineer** focused on **AI engineering, backend systems, and production-ready applications**. I build systems that integrate machine learning into real workflows — designing scalable APIs, deploying AI models, and turning complex technical ideas into usable products.
 
----
+Currently, I work with a **fintech startup**, contributing to backend and AI-driven systems while independently building and deploying applied AI platforms. My primary interest lies in practical AI — systems that operate reliably in production environments rather than experimental prototypes.
 
-### 🛠️ Tech Stack
-
-Here are some technologies I work with:
-
-- **Languages:**
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- **Frameworks & Libraries:**
-  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/-LangChain-0FA958?style=for-the-badge)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge)
-  ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge)
-
-- **Tools & Platforms:**
-  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Render](https://img.shields.io/badge/-Render-1E1E1E?style=for-the-badge)
+My background in Computer Science provides strong foundations in algorithms, probability, and statistics, which I apply directly when designing intelligent systems.
 
 ---
 
-### Skills & Expertise
+## Core Expertise
 
-- **AI Engineering:** Working with open-source LLMs, LangChain pipelines, vector embeddings, and retrieval-augmented systems. Experience in **deploying and optimizing LLMs for real use**, not just research notebooks.
-- **Backend & Systems:** FastAPI / Flask API development, Postgres/Prisma workflows, Dockerized deployments, async processing, API integrations.
-- **Data Science:** Data preprocessing, exploratory analysis, visualization, feature engineering, model training & evaluation.
-- **Foundations:** Strong understanding of **probability, statistics**, and the math behind ML models.
+**AI Engineering**
+- LLM pipelines, retrieval-augmented generation (RAG), and agent workflows
+- Open-source model deployment and optimization
+- Vector embeddings and semantic search systems
+- Applied ML systems built for real-world usage
 
----
+**Backend & Systems Engineering**
+- FastAPI / Flask API development
+- Scalable backend architecture and async processing
+- Database design and API integrations
+- Dockerized services and API lifecycle management
 
-### Current Focus
-- Building **real-world AI systems**, especially involving LLM agents and data workflows.
-- Backend architecture for **scalable, reliable AI deployment**.
-- Deepening understanding of **model internals** (not treating models as black boxes).
-- Improving the **Cell Slide Medical Annotation System** with doctor feedback.
-
----
-
-### Project Highlights
-
-- **Medical Cell-Slide Annotation Platform (In Use by Doctors):**  
-  Built to assist pneumonologists and pathologists during procedures. The goal is to reduce the need for mid-surgery pathology consultations by enabling quicker cell identification on the spot, ultimately reducing surgery time and improving decision-making.
-  - Frontend: https://github.com/lakshay-jainn/cell-annotation-frontend
-  - Backend: https://github.com/lakshay-jainn/cell-annotation-backend
-  
-- **Open Source Model Deployments:**
-<br>Deployed an open source fine-tuned Yolo Model, which detects the cell nuclei from a medical cell slide. Converting a command line inference model, to product Deployed API using Flask. 
-  - Code: https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
-  - Model: https://github.com/impromptuRong/hd_wsi
-- **SafeSpace:**
-<br>Anonymous posting platform with **AI-powered comment moderation**. A real-time pipeline scores toxicity, hate/harassment, and self-harm signals using open-source models, then auto-hides or flags comments while allowing moderator review and user appeals.
-  - Code: https://github.com/lakshay-jainn/Safe-Space-full-stack
-  
-- **Neural Network from Scratch (MNIST Classifier):**  
-  Achieved **90.6% accuracy**, deriving gradients and implementing training loops entirely from scratch.
-
-- **Alumni Connect:** React + Express.js full-stack collaboration platform.
+**Cloud & Deployment**
+- Deploying applications on AWS, Vercel, and cloud platforms
+- Containerized deployments using Docker
+- API hosting, environment configuration, and production monitoring
+- CI/CD workflows and scalable service deployment
 
 ---
 
-### 📫 Contact Me
+## Technology Stack
 
-- LinkedIn: [linkedin.com/in/lakshayjain](https://www.linkedin.com/in/lakshay-jain-39896631b/)
-- GitHub: https://github.com/lakshay-jainn
-- Email: **lakshay6690@gmail.com**
+**Languages**  
+Python • SQL • JavaScript
 
+**Backend & AI**  
+FastAPI • Flask • LangChain • LangGraph • LLM Integration • REST APIs
+
+**Databases & Infrastructure**  
+PostgreSQL • Prisma • AWS • Docker • Vercel • Render
+
+**Tools**  
+Git • GitHub • Linux
+
+---
+
+## Selected Projects
+
+### Medical Cell-Slide Annotation Platform (Used by Doctors)
+A clinical assistance platform designed to help pneumonologists and pathologists annotate and analyze medical cell slides during procedures, reducing dependency on mid-surgery pathology consultations and improving decision speed.
+
+- Built complete backend architecture and deployment pipeline
+- Fully hosted on **AWS** with a **serverless database architecture**
+- Designed for real clinical usage with continuous doctor feedback
+
+Frontend:  
+https://github.com/lakshay-jainn/cell-annotation-frontend
+
+Backend:  
+https://github.com/lakshay-jainn/cell-annotation-backend
+
+---
+
+### Open-Source Model Deployment (YOLO Medical Detection)
+Converted a research inference model into a production-accessible API.
+
+- Deployed fine-tuned YOLO model for cell nuclei detection
+- Transformed CLI-based inference into a scalable Flask API
+- Enabled real-time model access via hosted endpoints
+
+Code:  
+https://huggingface.co/spaces/lakshayjain2233/my-mldel/tree/main
+
+Base Model:  
+https://github.com/impromptuRong/hd_wsi
+
+---
+
+### SafeSpace — AI Moderation Platform
+Anonymous posting platform with automated AI moderation.
+
+- Real-time toxicity and safety classification pipeline
+- Detection of harassment, hate speech, and self-harm signals
+- Auto-flagging with moderator review and appeals workflow
+
+Code:  
+https://github.com/lakshay-jainn/Safe-Space-full-stack
+
+---
+
+### Neural Network From Scratch (MNIST)
+Implemented neural network training entirely from first principles.
+
+- Manual gradient derivation and training loop implementation
+- Achieved **90.6% accuracy** without high-level frameworks
+
+---
+
+### Alumni Connect
+Full-stack collaboration platform built using React and Express.js.
+
+---
+
+## Current Focus
+
+- Building reliable AI systems for production environments
+- Backend architecture for scalable AI deployment
+- Understanding model internals beyond black-box usage
+- Expanding real-world AI applications in healthcare and fintech
+
+---
+
+## Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/lakshay-jain-39896631b/
+
+GitHub:  
+https://github.com/lakshay-jainn
+
+Email:  
+lakshay6690@gmail.com
